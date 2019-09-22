@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://seshooxahs.d2d.dev/sitemap.xml
